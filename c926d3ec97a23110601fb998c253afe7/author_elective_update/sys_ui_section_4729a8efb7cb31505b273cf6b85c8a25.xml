@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="4729a8efb7cb31505b273cf6b85c8a25" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_982322_technic_1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-17 11:23:31</sys_created_on>
+            <sys_id>0729a8ef62cb315036d8005593a52326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="8f29a8ef6bcb3150f89921e6f78d9d25">4729a8efb7cb31505b273cf6b85c8a25</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-17 11:23:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-17 11:23:31</sys_created_on>
+            <sys_id>4b29a8efb9cb3150a81f5f599cc53524</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="8f29a8ef6bcb3150f89921e6f78d9d25">4729a8efb7cb31505b273cf6b85c8a25</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-17 11:23:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-17 11:23:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4729a8efb7cb31505b273cf6b85c8a25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+            <sys_update_name>sys_ui_section_4729a8efb7cb31505b273cf6b85c8a25</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-17 11:23:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_982322_technic_1)" name="custom_portal_approval_x_982322_technic_1">8f29a8ef6bcb3150f89921e6f78d9d25</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_ui_section_4729a8efb7cb31505b273cf6b85c8a25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="4729a8efb7cb31505b273cf6b85c8a25" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_982322_technic_1"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-12-17 11:23:31</sys_created_on><sys_id>0729a8ef62cb315036d8005593a52326</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="8f29a8ef6bcb3150f89921e6f78d9d25">4729a8efb7cb31505b273cf6b85c8a25</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-17 11:23:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-12-17 11:23:31</sys_created_on><sys_id>4b29a8efb9cb3150a81f5f599cc53524</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="8f29a8ef6bcb3150f89921e6f78d9d25">4729a8efb7cb31505b273cf6b85c8a25</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-17 11:23:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-12-17 11:23:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4729a8efb7cb31505b273cf6b85c8a25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_ui_section_4729a8efb7cb31505b273cf6b85c8a25</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-17 11:23:31</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_982322_technic_1)" name="custom_portal_approval_x_982322_technic_1">8f29a8ef6bcb3150f89921e6f78d9d25</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-366174285</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source>f050141297313110601fb998c253afc1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-12 09:04:04</sys_created_on>
+        <sys_id>902aa863970f3150601fb998c253afd6</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b2320f3a00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>502aa8634f0f315039b0bdb2850ea8d6</update_guid>
+        <update_guid_history>502aa8634f0f315039b0bdb2850ea8d6:-366174285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 11:27:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4b4c0d6c402f4f30a3dd6a8b4ad85690</sys_id>
+        <sys_metadata>4729a8efb7cb31505b273cf6b85c8a25</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent display_value="Sysapproval Approver">d477576e30151110c0a0ea25b2816bf6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_4729a8efb7cb31505b273cf6b85c8a25</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_4729a8efb7cb31505b273cf6b85c8a25">902aa863970f3150601fb998c253afd6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 11:27:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

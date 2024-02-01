@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_diagram_builder_instance">
+    <sn_diagram_builder_instance action="INSERT_OR_UPDATE">
+        <builder_configuration display_value="Flow Diagram">f7052724c3d030101099006c2840dd80</builder_configuration>
+        <diagram_json>{&#13;
+  "nodes" : [ {&#13;
+    "key" : "0734148b-6638-48c8-8ed2-860c4216248f",&#13;
+    "node_id" : "5d1510c3b7ba3010388487c2de11a9c7",&#13;
+    "name" : "Trigger"&#13;
+  }, {&#13;
+    "key" : "8ca73f32-5f49-4400-a4a2-1166a14aea0f",&#13;
+    "node_id" : "2ecf68c3b7fa3010388487c2de11a96c",&#13;
+    "name" : "Add a node"&#13;
+  }],&#13;
+  "edges" : [ {&#13;
+    "from" : "0734148b-6638-48c8-8ed2-860c4216248f",&#13;
+    "to" : "8ca73f32-5f49-4400-a4a2-1166a14aea0f",&#13;
+    "fromPort": "49de92bc535c20100b0cddeeff7b12f9",&#13;
+    "toPort": "6a9f28c3b7fa3010388487c2de11a902",&#13;
+    "edge_id" : "4bbc3989b7b83010388487c2de11a9d5"&#13;
+  }],&#13;
+  "node_arguments" : [ ],&#13;
+  "variables" : [ ]&#13;
+}</diagram_json>
+        <name>diagram test</name>
+        <read_only>false</read_only>
+        <state/>
+        <sys_class_name>sn_diagram_builder_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-28 21:33:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b81ed74f97173110601fb998c253af1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>diagram test</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sn_diagram_builder_instance_b81ed74f97173110601fb998c253af1a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-28 21:33:28</sys_updated_on>
+    </sn_diagram_builder_instance>
+</record_update>

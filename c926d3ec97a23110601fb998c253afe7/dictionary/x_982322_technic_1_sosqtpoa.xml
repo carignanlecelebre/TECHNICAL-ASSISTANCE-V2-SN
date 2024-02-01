@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e91d2ce89776f510601fb998c253af04" label="sosqtpoa" max_length="40" name="x_982322_technic_1_sosqtpoa" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_POUR_ACTION_ID" max_length="40" name="c_pour_action_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="For action" max_length="50" name="for_action" type="string"/>
+    </element>
+</database>

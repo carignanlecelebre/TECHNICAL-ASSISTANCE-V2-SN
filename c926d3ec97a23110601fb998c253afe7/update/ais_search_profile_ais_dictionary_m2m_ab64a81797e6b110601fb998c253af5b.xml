@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_982322_technic_1_dashboarddealer_search_profile_default_spell_check_dictionary">6b64a81797e6b110601fb998c253af58</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="dashboarddealer Search Profile">d664281749e6b110d851ac0e78b3d08f</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 19:52:55</sys_created_on>
+        <sys_id>ab64a81797e6b110601fb998c253af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982322_technic_1_dashboarddealer_search_profile_default_spell_check_dictionary.dashboarddealer Search Profile</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_ab64a81797e6b110601fb998c253af5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 19:52:55</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

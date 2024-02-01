@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9869c0ce976ab110601fb998c253af2d" label="sosqtdsr" max_length="40" name="x_982322_technic_1_sosqtdsr" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Update date" max_length="40" name="change_dt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updater Id" max_length="40" name="change_uid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer symptom" max_length="1113" name="c_dos_constatation_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DAM" max_length="40" name="c_dos_dam" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Operation done" max_length="4096" name="c_dos_diagnostique_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Call back date" max_length="40" name="c_dos_d_dos_rappel" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sender" max_length="44" name="c_dos_emaildiag_emetteur" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Closure reaon" max_length="40" name="c_dos_ferm_cause_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Closure group" max_length="40" name="c_dos_grp_fermeture" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident reproduced" max_length="40" name="c_dos_incident_reproduit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Call language" max_length="40" name="c_dos_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Odometer value" max_length="40" name="c_dos_odometre" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mileage end of warranty" max_length="40" name="c_dos_odometre_fin_gar" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Odometer" max_length="40" name="c_dos_odo_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cause of reopening" max_length="40" name="c_dos_ouv_cause_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="platform closure code" max_length="40" name="c_dos_plateforme_fermeture" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="remedy" max_length="4096" name="c_dos_remede_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID closure" max_length="40" name="c_dos_rep_fermeture" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Action done" max_length="4096" name="c_dos_solution_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="c_dos_st_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="symptom" max_length="40" name="c_dos_symptome_ppd_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VIN" max_length="40" name="c_dos_vin" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Level" max_length="40" name="c_grp_creation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="update group" max_length="40" name="c_grp_maj" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Group Owner" max_length="40" name="c_grp_proprietaire" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="c_marque_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Platform creation" max_length="40" name="c_plateforme_creation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Plaform update" max_length="40" name="c_plateforme_maj" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Platform owner" max_length="40" name="c_plateforme_proprietaire" type="string"/>
+        <element label="For action id" max_length="80" name="c_pour_action_id" type="table_name"/>
+        <element attributes="edge_encryption_enabled=true" label="For Info Id" max_length="40" name="c_pour_info_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Priority Id" max_length="40" name="c_priorite_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Creation ID" max_length="40" name="c_rep_creation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner" max_length="40" name="c_rep_proprietaire" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type of call" max_length="40" name="c_type_appel_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product line ID" max_length="40" name="c_vehicule_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Converted vehicle" max_length="40" name="c_veh_transforme" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DATE_DE_LA_PRECED_INTERVE" max_length="40" name="date_de_la_preced_interve" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DELAIS_DAPPARITION" max_length="40" name="delais_dapparition" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DOMAGE_CORPOREL" max_length="40" name="domage_corporel" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DOMAGE_DESCRIPTION" max_length="57" name="domage_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DOMAGE_TIERS" max_length="40" name="domage_tiers" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Creation date" max_length="40" name="d_creation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of first action" max_length="40" name="d_dos_1ere_action" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="warranty start date" max_length="40" name="d_dos_deb_garantie" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Close dte" max_length="40" name="d_dos_fermeture" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Warranty end date" max_length="40" name="d_dos_fin_garantie" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="platfom arrival date" max_length="40" name="d_dos_pf_arrivee" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="reopening date" max_length="40" name="d_dos_reouverture" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="status date" max_length="40" name="d_dos_statut" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner date" max_length="40" name="d_proprietaire" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="INCIDENT_REPRODUIT" max_length="40" name="incident_reproduit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="INTERVENTION" max_length="4096" name="intervention" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="I_INFO_COMPLEMENTAIRE" max_length="4096" name="i_info_complementaire" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="I_PLAINTE_CLIENT" max_length="40" name="i_plainte_client" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TSB / Campaign" max_length="40" name="ntsbou_code_campagne" type="string"/>
+        <element label="Qualification ID" max_length="40" name="n_branch_pointer" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" hint="Dealer code" label="Dealer code" max_length="40" name="n_client_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact" max_length="40" name="n_contact_id" type="string"/>
+        <element label="N_DOS_ID" max_length="40" name="n_dos_id" type="float"/>
+        <element label="Item" max_length="40" name="n_item_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="RECIDIVE" max_length="40" name="recidive" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UNITE_DELAIS" max_length="40" name="unite_delais" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VEHICULE_IMMOBILISE" max_length="40" name="vehicule_immobilise" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VEHICULE_REMORQUE" max_length="40" name="vehicule_remorque" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="V_ACCIDENT" max_length="40" name="v_accident" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="V_DATE_REPARATION" max_length="40" name="v_date_reparation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="V_TYPE_CLIENT" max_length="40" name="v_type_client" type="string"/>
+    </element>
+</database>

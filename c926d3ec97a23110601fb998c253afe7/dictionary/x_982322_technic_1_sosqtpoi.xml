@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2cd33cbe97323110601fb998c253afa4" label="sosqtpoi" max_length="40" name="x_982322_technic_1_sosqtpoi" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_POUR_INFO_ID" max_length="40" name="c_pour_info_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_POUR_INFO_POUR_INFO" max_length="45" name="c_pour_info_pour_info" type="string"/>
+    </element>
+</database>

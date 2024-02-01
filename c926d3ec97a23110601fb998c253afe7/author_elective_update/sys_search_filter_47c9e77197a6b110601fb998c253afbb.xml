@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="DELETE">
+        <active>true</active>
+        <ais_search_source display_value="contacts_dealers">43c9e77197a6b110601fb998c253afa9</ais_search_source>
+        <label>contacts_dealers</label>
+        <name>contacts_dealers</name>
+        <order>200</order>
+        <search_context_config display_value="Technical Assistance ServiceNow AI Search Configuration">adc9677176a6b1108a7e3d3b423aa8a4</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 18:24:21</sys_created_on>
+        <sys_id>47c9e77197a6b110601fb998c253afbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contacts_dealers</sys_name>
+        <sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_search_filter_47c9e77197a6b110601fb998c253afbb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 18:24:21</sys_updated_on>
+    </sys_search_filter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_search_filter_47c9e77197a6b110601fb998c253afbb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter"><sys_search_filter action="INSERT_OR_UPDATE"><active>true</active><ais_search_source display_value="contacts_dealers">43c9e77197a6b110601fb998c253afa9</ais_search_source><label>contacts_dealers</label><name>contacts_dealers</name><order>200</order><search_context_config display_value="Technical Assistance ServiceNow AI Search Configuration">adc9677176a6b1108a7e3d3b423aa8a4</search_context_config><sys_class_name>sys_search_filter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:21</sys_created_on><sys_id>47c9e77197a6b110601fb998c253afbb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>contacts_dealers</sys_name><sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_search_filter_47c9e77197a6b110601fb998c253afbb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:21</sys_updated_on></sys_search_filter></record_update>]]></payload>
+        <payload_hash>1405184969</payload_hash>
+        <record_name>contacts_dealers</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 18:24:21</sys_created_on>
+        <sys_id>8fc9e77197a6b110601fb998c253afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bde86d8870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 18:24:21</sys_updated_on>
+        <type>Navigation Tab</type>
+        <update_guid>83c9e7715aa6b110806addb70b8514bc</update_guid>
+        <update_guid_history>83c9e7715aa6b110806addb70b8514bc:1405184969</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-18 08:00:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_search_filter">sys_search_filter</sys_db_object>
+        <sys_id>1e5b6f2e46f449608e598e6f5d25f751</sys_id>
+        <sys_metadata>47c9e77197a6b110601fb998c253afbb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contacts_dealers</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_search_filter_47c9e77197a6b110601fb998c253afbb</sys_update_name>
+        <sys_update_version display_value="sys_search_filter_47c9e77197a6b110601fb998c253afbb">8fc9e77197a6b110601fb998c253afbc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-18 08:00:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

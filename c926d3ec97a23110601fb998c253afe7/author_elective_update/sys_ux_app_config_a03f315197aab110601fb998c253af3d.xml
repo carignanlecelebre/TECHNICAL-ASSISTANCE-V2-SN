@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>contacts_dealers</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 21:21:38</sys_created_on>
+        <sys_id>a03f315197aab110601fb998c253af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contacts_dealers</sys_name>
+        <sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_ux_app_config_a03f315197aab110601fb998c253af3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 21:21:38</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="DELETE" query="documentkey=a03f315197aab110601fb998c253af3d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_ux_app_config_a03f315197aab110601fb998c253af3d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>contacts_dealers</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-15 21:21:38</sys_created_on><sys_id>a03f315197aab110601fb998c253af3d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>contacts_dealers</sys_name><sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_ux_app_config_a03f315197aab110601fb998c253af3d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-15 21:21:38</sys_updated_on></sys_ux_app_config><sys_translated_text action="delete_multiple" query="documentkey=a03f315197aab110601fb998c253af3d"/></record_update>]]></payload>
+        <payload_hash>1834908534</payload_hash>
+        <record_name>contacts_dealers</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-15 21:21:38</sys_created_on>
+        <sys_id>ac3f315197aab110601fb998c253af3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd4dc71d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-15 21:21:38</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>603f3151f3aab110bc6e538e783c4b3f</update_guid>
+        <update_guid_history>603f3151f3aab110bc6e538e783c4b3f:1834908534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 20:18:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>1dccb60048854ac2860037900e1f5d84</sys_id>
+        <sys_metadata>a03f315197aab110601fb998c253af3d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contacts_dealers</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_a03f315197aab110601fb998c253af3d</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_a03f315197aab110601fb998c253af3d">ac3f315197aab110601fb998c253af3f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 20:18:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="labelCacheCleanUpExecuted=true" db_object_id="b089942a977eb110601fb998c253af70" label="PAYS" max_length="40" name="x_982322_technic_1_sosqtpay" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="NAME" mandatory="true" max_length="100" name="c_country_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ISO CODE" mandatory="true" max_length="2" name="c_iso_code" type="string"/>
+    </element>
+</database>

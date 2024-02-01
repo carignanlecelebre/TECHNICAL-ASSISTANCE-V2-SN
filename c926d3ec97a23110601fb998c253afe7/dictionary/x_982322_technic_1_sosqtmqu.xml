@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="labelCacheCleanUpExecuted=true" db_object_id="e64c50ae977eb110601fb998c253af9a" label="SOSQTMQU" max_length="40" name="x_982322_technic_1_sosqtmqu" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="c_marque_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="DESCRIPTION" max_length="40" name="description" type="string"/>
+        <element attributes="labelCacheCleanUpExecuted=true" label="N_FLAG_PIECE_SENSIBLE" max_length="40" name="n_flag_piece_sensible" type="integer"/>
+    </element>
+</database>

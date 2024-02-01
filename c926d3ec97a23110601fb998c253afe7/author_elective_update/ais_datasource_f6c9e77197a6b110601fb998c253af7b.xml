@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="DELETE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>contacts Table</name>
+        <retention_policy/>
+        <source>x_982322_technic_1_contacts</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 18:24:20</sys_created_on>
+        <sys_id>f6c9e77197a6b110601fb998c253af7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contacts Table</sys_name>
+        <sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>ais_datasource_f6c9e77197a6b110601fb998c253af7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 18:24:20</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>ais_datasource_f6c9e77197a6b110601fb998c253af7b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource"><ais_datasource action="INSERT_OR_UPDATE"><active>true</active><filter/><force_late_binding>false</force_late_binding><name>contacts Table</name><retention_policy/><source>x_982322_technic_1_contacts</source><sys_class_name>ais_datasource</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:20</sys_created_on><sys_id>f6c9e77197a6b110601fb998c253af7b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>contacts Table</sys_name><sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>ais_datasource_f6c9e77197a6b110601fb998c253af7b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:20</sys_updated_on><type>internal</type></ais_datasource></record_update>]]></payload>
+        <payload_hash>60499035</payload_hash>
+        <record_name>contacts Table</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 18:24:20</sys_created_on>
+        <sys_id>3ec9e77197a6b110601fb998c253af7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bde86d6440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 18:24:20</sys_updated_on>
+        <type>AI Search Indexed Source</type>
+        <update_guid>32c9e7716da6b110309cf2147b54a77e</update_guid>
+        <update_guid_history>32c9e7716da6b110309cf2147b54a77e:60499035</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="contacts Table">2c84aa86972ef110601fb998c253af89</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-18 08:00:06</sys_created_on>
+        <sys_db_object display_value="" name="ais_datasource">ais_datasource</sys_db_object>
+        <sys_id>03e7adb4a6854d6885cfc47a4e645439</sys_id>
+        <sys_metadata>f6c9e77197a6b110601fb998c253af7b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contacts Table</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>ais_datasource_f6c9e77197a6b110601fb998c253af7b</sys_update_name>
+        <sys_update_version display_value="ais_datasource_f6c9e77197a6b110601fb998c253af7b">3ec9e77197a6b110601fb998c253af7e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-18 08:00:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

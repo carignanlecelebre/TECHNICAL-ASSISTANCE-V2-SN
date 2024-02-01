@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="d_proprietaire" label="Owner date" language="en" table="x_982322_technic_1_sosqtdsr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>d_proprietaire</element>
+            <help/>
+            <hint/>
+            <label>Owner date</label>
+            <language>en</language>
+            <name>x_982322_technic_1_sosqtdsr</name>
+            <plural>Owner dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 20:42:22</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Owner date</sys_name>
+            <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+            <sys_update_name>sys_documentation_x_982322_technic_1_sosqtdsr_d_proprietaire_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-22 21:26:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="sosqtdsr_c">a6437d6397477150601fb998c253afdd</ais_search_source>
+        <label>sosqtdsr_c</label>
+        <name>sosqtdsr_c</name>
+        <order>100</order>
+        <search_context_config display_value="Technical Assistance V2 ServiceNow AI Search Configuration">cd43f9639a477150acd0b3d52de01a63</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 16:47:21</sys_created_on>
+        <sys_id>ba43bd6397477150601fb998c253af05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sosqtdsr_c</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_search_filter_ba43bd6397477150601fb998c253af05</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 16:47:21</sys_updated_on>
+    </sys_search_filter>
+</record_update>

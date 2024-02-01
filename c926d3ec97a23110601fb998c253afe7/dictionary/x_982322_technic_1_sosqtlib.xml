@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e482387a97323110601fb998c253afbe" label="sosqtlib" max_length="40" name="x_982322_technic_1_sosqtlib" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_MARQUE_ID" max_length="40" name="c_marque_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DOMAINE_CODE" max_length="40" name="domaine_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="KEY" max_length="1024" name="key" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LOCALE" max_length="40" name="locale" type="string"/>
+        <element label="TRANSLATED" max_length="40" name="translated" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="VALUE" max_length="2096" name="value" type="string"/>
+    </element>
+</database>

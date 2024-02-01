@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4b96343a97723110601fb998c253af8b" label="sosqtdse" max_length="40" name="x_982322_technic_1_sosqtdse" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_DEALER_LEVEL" max_length="40" name="c_dealer_level" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_ENERGY" max_length="40" name="c_energy" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_FCA_ENGINE_TRN_LEVEL" max_length="40" name="c_fca_engine_trn_level" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_FCA_FLAG" max_length="40" name="c_fca_flag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_FCA_MAIN_SINCOM" max_length="40" name="c_fca_main_sincom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_FCA_MARKET_CODE" max_length="40" name="c_fca_market_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_FCA_OIC" max_length="40" name="c_fca_oic" type="string"/>
+        <element label="N_COURTESYCAR_FLAG" max_length="40" name="n_courtesycar_flag" type="integer"/>
+        <element label="N_DOS_ID" max_length="40" name="n_dos_id" type="float"/>
+    </element>
+</database>

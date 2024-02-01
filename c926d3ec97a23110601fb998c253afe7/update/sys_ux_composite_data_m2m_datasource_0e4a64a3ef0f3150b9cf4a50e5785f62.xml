@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">0a4a64a3000f31505db52b58d2313263</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">024a64a36f0f31507316305356473662</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-17 11:28:24</sys_created_on>
+        <sys_id>0e4a64a3ef0f3150b9cf4a50e5785f62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_0e4a64a3ef0f3150b9cf4a50e5785f62</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 11:28:24</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>
