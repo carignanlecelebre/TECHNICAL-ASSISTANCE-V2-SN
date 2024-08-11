@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7441fc6497b6f510601fb998c253afdb" label="sosqtcli" max_length="40" name="x_982322_technic_1_sosqtcli" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_ADRESSE" max_length="100" name="c_client_adresse" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_CODE_POSTAL" max_length="40" name="c_client_code_postal" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_FILIALE" max_length="40" name="c_client_filiale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_HIERARCHIE_TYPE_ID" max_length="40" name="c_client_hierarchie_type_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_LANGUE_ID" max_length="40" name="c_client_langue_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_RAISONSOCIALE" max_length="40" name="c_client_raisonsociale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_ST_ID" max_length="40" name="c_client_st_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_CLIENT_VILLE" max_length="40" name="c_client_ville" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_MAIN_SINCOM" max_length="40" name="c_main_sincom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_MARKET_CODE" max_length="40" name="c_market_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_MARQUE_ID" max_length="40" name="c_marque_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_OIC_CODE" max_length="40" name="c_oic_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_PAYS_ID" max_length="40" name="c_pays_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="2" choice_field="recidive" choice_table="x_982322_technic_0_sosqtdsr" label="N_CLIENT_ID" max_length="40" name="n_client_id" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>

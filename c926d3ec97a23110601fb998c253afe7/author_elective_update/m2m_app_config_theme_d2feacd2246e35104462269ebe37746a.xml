@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-18 18:05:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d2feacd2246e35104462269ebe37746a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>m2m_app_config_theme_d2feacd2246e35104462269ebe37746a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-18 18:05:05</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">9efeacd2466e35105ee5757293bbae6b</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>m2m_app_config_theme_d2feacd2246e35104462269ebe37746a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-18 18:05:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d2feacd2246e35104462269ebe37746a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>m2m_app_config_theme_d2feacd2246e35104462269ebe37746a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-18 18:05:05</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">9efeacd2466e35105ee5757293bbae6b</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>892907436</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f050141297313110601fb998c253afc1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-12 09:04:04</sys_created_on>
+        <sys_id>28c7f3f497fbb550601fb998c253af69</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b2320f3a00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>e4c7f3f4fefbb5505da1d23297f8de69</update_guid>
+        <update_guid_history>e4c7f3f4fefbb5505da1d23297f8de69:892907436</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2cc7f3f497fbb550601fb998c253af6a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 20:09:54</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>0af6c58554b942f88f66327df3acf9e1</sys_id>
+        <sys_metadata>d2feacd2246e35104462269ebe37746a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_d2feacd2246e35104462269ebe37746a</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_d2feacd2246e35104462269ebe37746a">28c7f3f497fbb550601fb998c253af69</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 20:09:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

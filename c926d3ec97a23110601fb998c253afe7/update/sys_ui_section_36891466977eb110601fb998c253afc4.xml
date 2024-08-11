@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Countries" section_id="36891466977eb110601fb998c253afc4" sys_domain="global" table="x_982322_technic_1_sosqtpay" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_iso_code</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 17:53:26</sys_created_on>
+            <sys_id>d278c9aa97ffb190601fb998c253af19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Countries" display_value="Countries" name="x_982322_technic_1_sosqtpay" sys_domain="global" view="Default view">36891466977eb110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 17:53:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 17:53:26</sys_created_on>
+            <sys_id>d678c9aa97ffb190601fb998c253af19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="Countries" display_value="Countries" name="x_982322_technic_1_sosqtpay" sys_domain="global" view="Default view">36891466977eb110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 17:53:26</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 17:53:26</sys_created_on>
+            <sys_id>1e78c9aa97ffb190601fb998c253af19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Countries" display_value="Countries" name="x_982322_technic_1_sosqtpay" sys_domain="global" view="Default view">36891466977eb110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 17:53:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_country_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-20 17:53:26</sys_created_on>
+            <sys_id>1278c9aa97ffb190601fb998c253af1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Countries" display_value="Countries" name="x_982322_technic_1_sosqtpay" sys_domain="global" view="Default view">36891466977eb110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-20 17:53:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Countries</caption>
+            <header>false</header>
+            <name>x_982322_technic_1_sosqtpay</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-01 21:25:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36891466977eb110601fb998c253afc4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>x_982322_technic_1_sosqtpay</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+            <sys_update_name>sys_ui_section_36891466977eb110601fb998c253afc4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 20:40:37</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b33d5b3d97f3bd50601fb998c253afcf</sp_column>
+        <sp_widget display_value="Image Link">86776e0453331300a699ddeeff7b12be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 20:48:49</sys_created_on>
+        <sys_id>736d573d97f3bd50601fb998c253af0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sp_instance_736d573d97f3bd50601fb998c253af0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 20:48:49</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=736d573d97f3bd50601fb998c253af0e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sp_instance_736d573d97f3bd50601fb998c253af0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">b33d5b3d97f3bd50601fb998c253afcf</sp_column><sp_widget display_value="Image Link">86776e0453331300a699ddeeff7b12be</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-18 20:48:49</sys_created_on><sys_id>736d573d97f3bd50601fb998c253af0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sp_instance_736d573d97f3bd50601fb998c253af0e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-18 20:48:49</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=736d573d97f3bd50601fb998c253af0e"/></record_update>]]></payload>
+        <payload_hash>-1767127087</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 20:48:50</sys_created_on>
+        <sys_id>007d573d97f3bd50601fb998c253af11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d1e5568000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 20:48:50</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>047d573d7ff3bd50477ca39b6d6f7c10</update_guid>
+        <update_guid_history>047d573d7ff3bd50477ca39b6d6f7c10:-1767127087</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">837d137d97f3bd50601fb998c253aff6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 20:49:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>90de3110be454e81845b78c5a3072d41</sys_id>
+        <sys_metadata>736d573d97f3bd50601fb998c253af0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sp_instance_736d573d97f3bd50601fb998c253af0e</sys_update_name>
+        <sys_update_version display_value="sp_instance_736d573d97f3bd50601fb998c253af0e">007d573d97f3bd50601fb998c253af11</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 20:49:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[
+    
+]</event_mappings>
+        <macroponent display_value="contacts_dealers Record Page">9fc9e77197a6b110601fb998c253afe8</macroponent>
+        <macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "comment": "",
+            "message": ""
+        }
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    }
+}</macroponent_config>
+        <name>contacts_dealers Record Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=x_982322_technic_1_contacts_dealers</screen_condition>
+        <screen_type display_value="Record">2dc96771c5a6b110f0e5eef3992395a3</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 18:24:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1bc92b7197a6b110601fb998c253af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contacts_dealers Record Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_ux_screen_1bc92b7197a6b110601fb998c253af69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 18:24:22</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1bc92b7197a6b110601fb998c253af69"/>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="labelCacheCleanUpExecuted=true" db_object_id="848d5c2297beb110601fb998c253afff" label="sosqtplt" max_length="40" name="x_982322_technic_1_sosqtplt" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_PAYS_ID" max_length="40" name="c_pays_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_PLATEFORME_FILTE_FL" max_length="40" name="c_plateforme_filte_fl" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_PLATEFORME_ID" max_length="40" name="c_plateforme_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_PLATEFORME_LG_PLATE" max_length="40" name="c_plateforme_lg_plate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_PLATEFORME_PLATEFORME" max_length="40" name="c_plateforme_plateforme" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_TYPE_ASSISTANCE_ID" max_length="40" name="c_type_assistance_id" type="string"/>
+        <element attributes="labelCacheCleanUpExecuted=true" label="N_PLATEFORME_TECH_ID" max_length="40" name="n_plateforme_tech_id" type="integer"/>
+    </element>
+</database>

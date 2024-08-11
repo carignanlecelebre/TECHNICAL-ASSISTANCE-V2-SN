@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>tickets</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 20:57:06</sys_created_on>
+        <sys_id>b4cc484697aab110601fb998c253af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tickets</sys_name>
+        <sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_ux_app_config_b4cc484697aab110601fb998c253af25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 20:57:06</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="DELETE" query="documentkey=b4cc484697aab110601fb998c253af25"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_ux_app_config_b4cc484697aab110601fb998c253af25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>tickets</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 20:57:06</sys_created_on><sys_id>b4cc484697aab110601fb998c253af25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>tickets</sys_name><sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_ux_app_config_b4cc484697aab110601fb998c253af25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 20:57:06</sys_updated_on></sys_ux_app_config><sys_translated_text action="delete_multiple" query="documentkey=b4cc484697aab110601fb998c253af25"/></record_update>]]></payload>
+        <payload_hash>-663808850</payload_hash>
+        <record_name>tickets</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 20:57:07</sys_created_on>
+        <sys_id>f0cc484697aab110601fb998c253af28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bdf12b59e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 20:57:07</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>f4cc484614aab1103a0e8d35fa437827</update_guid>
+        <update_guid_history>f4cc484614aab1103a0e8d35fa437827:-663808850</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 20:05:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>0bad7b043e454a7880a588a9ff451310</sys_id>
+        <sys_metadata>b4cc484697aab110601fb998c253af25</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tickets</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_b4cc484697aab110601fb998c253af25</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_b4cc484697aab110601fb998c253af25">f0cc484697aab110601fb998c253af28</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 20:05:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

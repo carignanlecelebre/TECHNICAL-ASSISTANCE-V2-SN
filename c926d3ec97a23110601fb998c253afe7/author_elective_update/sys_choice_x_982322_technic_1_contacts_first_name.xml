@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="first_name" table="x_982322_technic_1_contacts" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <name>x_982322_technic_1_contacts</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-13 20:42:18</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>first_name</sys_name>
+            <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+            <sys_update_name>sys_choice_x_982322_technic_1_contacts_first_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-13 20:42:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

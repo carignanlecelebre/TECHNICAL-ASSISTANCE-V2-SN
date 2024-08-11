@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>global_search_configurations</name>
+        <page display_value="">f02d29bb97d37510601fb998c253af02</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-30 21:14:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7c2d29bb9fd37510f84f4784d9999525</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_ux_page_property_7c2d29bb9fd37510f84f4784d9999525</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-30 21:14:40</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_982322_technic_1.f02d29bb97d37510601fb998c253af02.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_ux_page_property_7c2d29bb9fd37510f84f4784d9999525</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>global_search_configurations</name><page display_value="">f02d29bb97d37510601fb998c253af02</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-12-30 21:14:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>7c2d29bb9fd37510f84f4784d9999525</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_ux_page_property_7c2d29bb9fd37510f84f4784d9999525</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-30 21:14:40</sys_updated_on><type>json</type><unique_name>x_982322_technic_1.f02d29bb97d37510601fb998c253af02.root.global_search_configurations</unique_name><value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-947836004</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>f050141297313110601fb998c253afc1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-12 09:04:04</sys_created_on>
+        <sys_id>c5e6b37497fbb550601fb998c253afd3</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b2320f3a00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>85e6b37461fbb550c6f1281e889ef2d3</update_guid>
+        <update_guid_history>85e6b37461fbb550c6f1281e889ef2d3:-947836004</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 20:06:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3968c6f15c964488ab8a9170d57d6a04</sys_id>
+        <sys_metadata>7c2d29bb9fd37510f84f4784d9999525</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_7c2d29bb9fd37510f84f4784d9999525</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_7c2d29bb9fd37510f84f4784d9999525">c5e6b37497fbb550601fb998c253afd3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 20:06:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

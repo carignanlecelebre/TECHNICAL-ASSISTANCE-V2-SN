@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="e3c92b7197a6b110601fb998c253afc4" sys_domain="global" table="x_982322_technic_1_contacts_dealers" version="3" view="workspace-technical-assistance-servicenow-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>userid</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+            <sys_id>a7c92b7197a6b110601fb998c253afc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+            <sys_id>abc92b7197a6b110601fb998c253afc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+            <sys_id>afc92b7197a6b110601fb998c253afc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+            <sys_id>a3c92b7197a6b110601fb998c253afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+            <sys_id>a7c92b7197a6b110601fb998c253afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>professional_email</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+            <sys_id>abc92b7197a6b110601fb998c253afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_982322_technic_1_contacts_dealers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3c92b7197a6b110601fb998c253afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_1_contacts_dealers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+            <sys_update_name>sys_ui_section_e3c92b7197a6b110601fb998c253afc4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Technical Assistance ServiceNow 0" name="workspace-technical-assistance-servicenow-0">edc967711ca6b110902a72e8d923cfa3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_ui_section_e3c92b7197a6b110601fb998c253afc4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="e3c92b7197a6b110601fb998c253afc4" sys_domain="global" table="x_982322_technic_1_contacts_dealers" version="3" view="workspace-technical-assistance-servicenow-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>userid</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:23</sys_created_on><sys_id>a7c92b7197a6b110601fb998c253afc6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>last_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:23</sys_created_on><sys_id>abc92b7197a6b110601fb998c253afc6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>phone</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:23</sys_created_on><sys_id>afc92b7197a6b110601fb998c253afc6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:23</sys_created_on><sys_id>a3c92b7197a6b110601fb998c253afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:23</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>first_name</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:23</sys_created_on><sys_id>a7c92b7197a6b110601fb998c253afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>professional_email</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:23</sys_created_on><sys_id>abc92b7197a6b110601fb998c253afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_982322_technic_1_contacts_dealers" sys_domain="global" view="edc967711ca6b110902a72e8d923cfa3">e3c92b7197a6b110601fb998c253afc4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_982322_technic_1_contacts_dealers</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 18:24:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e3c92b7197a6b110601fb998c253afc4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_982322_technic_1_contacts_dealers</sys_name><sys_overrides/><sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_ui_section_e3c92b7197a6b110601fb998c253afc4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 18:24:23</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace Technical Assistance ServiceNow 0" name="workspace-technical-assistance-servicenow-0">edc967711ca6b110902a72e8d923cfa3</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1104584753</payload_hash>
+        <record_name>contacts_dealers</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 18:24:23</sys_created_on>
+        <sys_id>a3c92b7197a6b110601fb998c253afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bde86e2600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 18:24:23</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2bc92b713ea6b110298b22d9d576bfd3</update_guid>
+        <update_guid_history>2bc92b713ea6b110298b22d9d576bfd3:1104584753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 20:23:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>332bce8807f5434482dd892a389a0da1</sys_id>
+        <sys_metadata>e3c92b7197a6b110601fb998c253afc4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent display_value="">232a71d5976ab110601fb998c253af4c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e3c92b7197a6b110601fb998c253afc4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e3c92b7197a6b110601fb998c253afc4">a3c92b7197a6b110601fb998c253afd4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 20:23:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">766fd6a54b7ff9502329859287ba968a</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-17 21:39:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a6fd6a5a07ff950bbef20234fdc6f8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>m2m_app_config_theme_3a6fd6a5a07ff950bbef20234fdc6f8a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-17 21:39:24</sys_updated_on>
+        <theme display_value="Light Theme">be6fd6a5f67ff950d2d8867fcc1c0d8a</theme>
+        <ux_app_configuration display_value="Technical Assistance V2 ServiceNow Config">266fd6a5977ff950601fb998c253af13</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

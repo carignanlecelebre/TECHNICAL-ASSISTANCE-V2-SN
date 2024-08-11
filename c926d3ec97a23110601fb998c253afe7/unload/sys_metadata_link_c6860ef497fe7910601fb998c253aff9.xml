@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>436948ce976ab110601fb998c253af08</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_982322_technic_1_sosqtdsr">
+    <x_982322_technic_1_sosqtdsr action="INSERT_OR_UPDATE">
+        <c_dos_constatation_la>Spia anticollisione accesa</c_dos_constatation_la>
+        <c_dos_d_dos_rappel>2023-03-02 00:00:00</c_dos_d_dos_rappel>
+        <c_dos_dam>1682238</c_dos_dam>
+        <c_dos_diagnostique_la>In diagnosi si riscontra errore C1418-78.</c_dos_diagnostique_la>
+        <c_dos_emaildiag_emetteur>BIAGIO FENZA (089/302802)</c_dos_emaildiag_emetteur>
+        <c_dos_ferm_cause_id>1</c_dos_ferm_cause_id>
+        <c_dos_grp_fermeture>N1</c_dos_grp_fermeture>
+        <c_dos_incident_reproduit/>
+        <c_dos_la>IT</c_dos_la>
+        <c_dos_odo_id>1</c_dos_odo_id>
+        <c_dos_odometre>1670</c_dos_odometre>
+        <c_dos_odometre_fin_gar>0</c_dos_odometre_fin_gar>
+        <c_dos_ouv_cause_id/>
+        <c_dos_plateforme_fermeture>DTR</c_dos_plateforme_fermeture>
+        <c_dos_remede_la>Sostituzione Radar</c_dos_remede_la>
+        <c_dos_rep_fermeture>U074387</c_dos_rep_fermeture>
+        <c_dos_solution_la>02/03&#13;
+f.podano&#13;
+invio a enti centrali per valutazione&#13;
+01/03&#13;
+podano f.&#13;
+DID-I da completare&#13;
+Purtroppo le documentazioni e rilievi richiesti per il vostro tkt DID-I risultano incomplete e/o non a standard.&#13;
+Vi ricordo le seguenti linee guida: La DID-I va aperta solo a termine dell’intervento (soluzione)&#13;
+La documentazione e rilievi da produrre modalità e formato in quanto saranno sottoposte all’att.ne degli enti di Qualità;&#13;
+- La Check list in formato Excel (in allegato)&#13;
+va compilata in tutte le sue parti e allegata sempre in formato Excel&#13;
+(Non va compilata a penna / Ne stampata / Ne scansionata).&#13;
+- Foto del veicolo/area del componente incriminato causa del lamentato&#13;
+-Foto del componente eventualmente sostituito&#13;
+-Foto etichetta tracciabilità e/o marcature presenti sul componente incriminato&#13;
+(No stampe / No scansioni delle foto).-Per qualsiasi problematica imputabile ad un problema elettrico allegare lo scan report (rapporto dettagliato veicolo) in PFD NO scanner- N.B. se non avete ulteriore materiale a supporto indicatelo in chat E poi riporre il tkt in stato Pronta / da Tradurre.&#13;
+Vi ringrazio anticipatamente in attesa di un vs Rapido riscontro&#13;
+X-Documentazione mancante:check list in excel-scanreport in pdf-foto del particolare mancante</c_dos_solution_la>
+        <c_dos_st_id>0</c_dos_st_id>
+        <c_dos_symptome_ppd_la/>
+        <c_dos_vin>1C4NJCD33PPP01206</c_dos_vin>
+        <c_grp_creation>N1</c_grp_creation>
+        <c_grp_maj>N1</c_grp_maj>
+        <c_grp_proprietaire>N1</c_grp_proprietaire>
+        <c_marque_id>JE</c_marque_id>
+        <c_plateforme_creation>DTR</c_plateforme_creation>
+        <c_plateforme_maj>DTR</c_plateforme_maj>
+        <c_plateforme_proprietaire>DTR</c_plateforme_proprietaire>
+        <c_pour_action_id/>
+        <c_pour_info_id/>
+        <c_priorite_id>1</c_priorite_id>
+        <c_rep_creation>EMAILDIAG</c_rep_creation>
+        <c_rep_proprietaire>U074387</c_rep_proprietaire>
+        <c_type_appel_id>17</c_type_appel_id>
+        <c_veh_transforme/>
+        <c_vehicule_id>609</c_vehicule_id>
+        <change_dt>2023-03-02 19:07:47</change_dt>
+        <change_uid>U074387</change_uid>
+        <d_creation>2023-02-28 08:03:00</d_creation>
+        <d_dos_1ere_action/>
+        <d_dos_deb_garantie>2023-01-12</d_dos_deb_garantie>
+        <d_dos_fermeture>2023-03-02 19:07:00</d_dos_fermeture>
+        <d_dos_fin_garantie>2025-01-12</d_dos_fin_garantie>
+        <d_dos_pf_arrivee>2023-03-02 13:27:00</d_dos_pf_arrivee>
+        <d_dos_reouverture/>
+        <d_dos_statut>2023-03-02 19:07:00</d_dos_statut>
+        <d_proprietaire>2023-03-02 02:40:00</d_proprietaire>
+        <date_de_la_preced_interve/>
+        <delais_dapparition>1</delais_dapparition>
+        <domage_corporel/>
+        <domage_description/>
+        <domage_tiers/>
+        <i_info_complementaire>Spia anticollisione accesa</i_info_complementaire>
+        <i_plainte_client/>
+        <incident_reproduit>true</incident_reproduit>
+        <intervention/>
+        <n_branch_pointer>6808</n_branch_pointer>
+        <n_client_id>IT004HJ</n_client_id>
+        <n_contact_id>SOS11229686</n_contact_id>
+        <n_dos_id>15826397</n_dos_id>
+        <n_item_id/>
+        <ntsbou_code_campagne/>
+        <recidive>false</recidive>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 20:42:31</sys_created_on>
+        <sys_id>436948ce976ab110601fb998c253af08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 20:42:31</sys_updated_on>
+        <unite_delais>1</unite_delais>
+        <v_accident/>
+        <v_date_reparation>22/02/2023</v_date_reparation>
+        <v_type_client>0</v_type_client>
+        <vehicule_immobilise>-1</vehicule_immobilise>
+        <vehicule_remorque/>
+    </x_982322_technic_1_sosqtdsr>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-26 18:52:25</sys_created_on>
+        <sys_id>c6860ef497fe7910601fb998c253aff9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2023-11-17 12:42:31</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_metadata_link_c6860ef497fe7910601fb998c253aff9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-26 18:52:25</sys_updated_on>
+        <tablename>x_982322_technic_1_sosqtdsr</tablename>
+    </sys_metadata_link>
+</record_update>

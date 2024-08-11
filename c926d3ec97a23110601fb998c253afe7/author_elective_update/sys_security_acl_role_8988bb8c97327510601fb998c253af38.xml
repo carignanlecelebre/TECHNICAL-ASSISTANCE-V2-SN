@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-24 19:14:59</sys_created_on>
+        <sys_id>8988bb8c97327510601fb998c253af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982322_technic_1_sosqtrfa.x_982322_technic_1.technical_advisor</sys_name>
+        <sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_security_acl display_value="x_982322_technic_1_sosqtrfa">8188bb8c97327510601fb998c253af29</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8988bb8c97327510601fb998c253af38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-24 19:14:59</sys_updated_on>
+        <sys_user_role display_value="x_982322_technic_1.technical_advisor" name="x_982322_technic_1.technical_advisor">0926d3ec97a23110601fb998c253aff7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_security_acl_role_8988bb8c97327510601fb998c253af38</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-24 19:14:59</sys_created_on><sys_id>8988bb8c97327510601fb998c253af38</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_982322_technic_1_sosqtrfa.x_982322_technic_1.technical_advisor</sys_name><sys_package display_value="Technical Assistance ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_security_acl display_value="x_982322_technic_1_sosqtrfa">8188bb8c97327510601fb998c253af29</sys_security_acl><sys_update_name>sys_security_acl_role_8988bb8c97327510601fb998c253af38</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-24 19:14:59</sys_updated_on><sys_user_role display_value="x_982322_technic_1.technical_advisor" name="x_982322_technic_1.technical_advisor">0926d3ec97a23110601fb998c253aff7</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-759429450</payload_hash>
+        <record_name>x_982322_technic_1_sosqtrfa.x_982322_technic_1.technical_advisor</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-24 19:14:59</sys_created_on>
+        <sys_id>dd88bb8c97327510601fb998c253af3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c02c1b9790000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-24 19:14:59</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c188bb8cc9327510c166740335b7a13a</update_guid>
+        <update_guid_history>c188bb8cc9327510c166740335b7a13a:-759429450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_982322_technic_1_sosqtrfa.x_982322_technic_1.technical_advisor">5f95d1ac97baf510601fb998c253af63</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-25 20:40:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2550582ead3244d5a8fa5a4bfda18a11</sys_id>
+        <sys_metadata>8988bb8c97327510601fb998c253af38</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982322_technic_1_sosqtrfa.x_982322_technic_1.technical_advisor</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent display_value="">8188bb8c97327510601fb998c253af29</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_8988bb8c97327510601fb998c253af38</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_8988bb8c97327510601fb998c253af38">dd88bb8c97327510601fb998c253af3a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-25 20:40:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

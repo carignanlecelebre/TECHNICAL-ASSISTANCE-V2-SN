@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>cb6948ce976ab110601fb998c253af0d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_982322_technic_1_sosqtdsr">
+    <x_982322_technic_1_sosqtdsr action="INSERT_OR_UPDATE">
+        <c_dos_constatation_la>MOTEUR ELECTRIQUE MESSAGE D 'ARRETER LE VEHICULE A L ECRAN 
+MOTEUR ELECTRIQUE A COUPER TOUT SEUL SUR UNE VOIE 110 KM/H  PAR FORTE PLUIE</c_dos_constatation_la>
+        <c_dos_d_dos_rappel>2023-02-28 00:00:00</c_dos_d_dos_rappel>
+        <c_dos_dam>CJ</c_dos_dam>
+        <c_dos_diagnostique_la>BONJOUR NOTRE CLIENT ET TOMBER EN PANNE SUR LA ROUTE SANS POUVOIR REDEMARRER 
+LORS DE MES CONTROLES JAI CONSTATER L ALARME 27 CONCERNANT UN DEFAUT D ISOLATION JE N ai  DETECTER AUCUNE DAFAILLANCE DU CIRCUIT ELECTRIQUE HAUTE TENSION</c_dos_diagnostique_la>
+        <c_dos_emaildiag_emetteur>BRUNO GUILLEMIN (0495589002)</c_dos_emaildiag_emetteur>
+        <c_dos_ferm_cause_id>6</c_dos_ferm_cause_id>
+        <c_dos_grp_fermeture>N1</c_dos_grp_fermeture>
+        <c_dos_incident_reproduit/>
+        <c_dos_la>FR</c_dos_la>
+        <c_dos_odo_id>1</c_dos_odo_id>
+        <c_dos_odometre>51627</c_dos_odometre>
+        <c_dos_odometre_fin_gar>0</c_dos_odometre_fin_gar>
+        <c_dos_ouv_cause_id/>
+        <c_dos_plateforme_fermeture>ALT</c_dos_plateforme_fermeture>
+        <c_dos_remede_la>CONTROL CIRCUIT HAUTE TENSION 
+POURRIAIS VOUS ME FOURNIR PAR AILLEUR LE PATCH DE L AQUITTEMENT ALARME 10 ? LE PC QUI LE CONTENAIS A ETE FLASHER 
+CDT</c_dos_remede_la>
+        <c_dos_rep_fermeture>E610632</c_dos_rep_fermeture>
+        <c_dos_solution_la>Bonjour&#13;
+&#13;
+pour alarme27:&#13;
+METTRE HORS TENSION&#13;
+&#13;
+Appliquer la méthode de contrôle voir pièce jointe)&#13;
+&#13;
+Fournir une photo du contrôle avec l'appareil de mesure connecter&#13;
+&#13;
+pour alarme 10:&#13;
+merci d'attacher les captures d'alarme10.&#13;
+&#13;
+Cordialement,</c_dos_solution_la>
+        <c_dos_st_id>0</c_dos_st_id>
+        <c_dos_symptome_ppd_la/>
+        <c_dos_vin>VL4EMEB1AHL500167</c_dos_vin>
+        <c_grp_creation>N1</c_grp_creation>
+        <c_grp_maj>N1</c_grp_maj>
+        <c_grp_proprietaire>N1</c_grp_proprietaire>
+        <c_marque_id>AC</c_marque_id>
+        <c_plateforme_creation>ALT</c_plateforme_creation>
+        <c_plateforme_maj>ALT</c_plateforme_maj>
+        <c_plateforme_proprietaire>ALT</c_plateforme_proprietaire>
+        <c_pour_action_id/>
+        <c_pour_info_id/>
+        <c_priorite_id>1</c_priorite_id>
+        <c_rep_creation>EMAILDIAG</c_rep_creation>
+        <c_rep_proprietaire>E610632</c_rep_proprietaire>
+        <c_type_appel_id>6</c_type_appel_id>
+        <c_veh_transforme>false</c_veh_transforme>
+        <c_vehicule_id>1CBO</c_vehicule_id>
+        <change_dt>2023-02-28 12:01:48</change_dt>
+        <change_uid>E610632</change_uid>
+        <d_creation>2023-02-28 08:08:00</d_creation>
+        <d_dos_1ere_action/>
+        <d_dos_deb_garantie>2018-04-27</d_dos_deb_garantie>
+        <d_dos_fermeture>2023-02-28 12:01:45</d_dos_fermeture>
+        <d_dos_fin_garantie>2020-04-27</d_dos_fin_garantie>
+        <d_dos_pf_arrivee>2023-02-28 08:08:00</d_dos_pf_arrivee>
+        <d_dos_reouverture/>
+        <d_dos_statut>2023-02-28 12:01:00</d_dos_statut>
+        <d_proprietaire>2023-02-28 19:44:00</d_proprietaire>
+        <date_de_la_preced_interve/>
+        <delais_dapparition>2</delais_dapparition>
+        <domage_corporel>false</domage_corporel>
+        <domage_description/>
+        <domage_tiers>false</domage_tiers>
+        <i_info_complementaire>MOTEUR ELECTRIQUE MESSAGE D 'ARRETER LE VEHICULE A L ECRAN 
+MOTEUR ELECTRIQUE A COUPER TOUT SEUL SUR UNE VOIE 110 KM/H  PAR FORTE PLUIE</i_info_complementaire>
+        <i_plainte_client>false</i_plainte_client>
+        <incident_reproduit>true</incident_reproduit>
+        <intervention/>
+        <n_branch_pointer>233</n_branch_pointer>
+        <n_client_id>038709A</n_client_id>
+        <n_contact_id>SOS11018740</n_contact_id>
+        <n_dos_id>15826441</n_dos_id>
+        <n_item_id>21629</n_item_id>
+        <ntsbou_code_campagne/>
+        <recidive>false</recidive>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 20:42:31</sys_created_on>
+        <sys_id>cb6948ce976ab110601fb998c253af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 20:42:31</sys_updated_on>
+        <unite_delais>1</unite_delais>
+        <v_accident>false</v_accident>
+        <v_date_reparation>03/03/2023</v_date_reparation>
+        <v_type_client>0</v_type_client>
+        <vehicule_immobilise>1</vehicule_immobilise>
+        <vehicule_remorque>true</vehicule_remorque>
+    </x_982322_technic_1_sosqtdsr>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-26 18:52:27</sys_created_on>
+        <sys_id>2a864ef497fe7910601fb998c253aff8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2023-11-17 12:42:31</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_metadata_link_2a864ef497fe7910601fb998c253aff8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-26 18:52:27</sys_updated_on>
+        <tablename>x_982322_technic_1_sosqtdsr</tablename>
+    </sys_metadata_link>
+</record_update>

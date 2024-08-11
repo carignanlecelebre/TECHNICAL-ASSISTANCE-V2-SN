@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="a05331a397477150601fb998c253af5a" sys_domain="global" table="x_982322_technic_1_sosqtdsr_c" version="3" view="workspace-technical-assistance-v2-servicenow-0">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_982322_technic_1_sosqtdsr_c</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-17 16:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a05331a397477150601fb998c253af5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_1_sosqtdsr_c</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+            <sys_update_name>sys_ui_section_a05331a397477150601fb998c253af5a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-17 16:47:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Technical Assistance V2 ServiceNow 0" name="workspace-technical-assistance-v2-servicenow-0">0143f9637b47715090e3acb372844263</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_ui_section_a05331a397477150601fb998c253af5a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="a05331a397477150601fb998c253af5a" sys_domain="global" table="x_982322_technic_1_sosqtdsr_c" version="3" view="workspace-technical-assistance-v2-servicenow-0"><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_982322_technic_1_sosqtdsr_c</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 16:47:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a05331a397477150601fb998c253af5a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_982322_technic_1_sosqtdsr_c</sys_name><sys_overrides/><sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_ui_section_a05331a397477150601fb998c253af5a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-17 16:47:28</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace Technical Assistance V2 ServiceNow 0" name="workspace-technical-assistance-v2-servicenow-0">0143f9637b47715090e3acb372844263</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1939609162</payload_hash>
+        <record_name>sosqtdsr_c</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 16:47:28</sys_created_on>
+        <sys_id>2c5331a397477150601fb998c253afc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c78acedc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 16:47:28</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a05331a304477150a9ecc59250ba96c5</update_guid>
+        <update_guid_history>a05331a304477150a9ecc59250ba96c5:-1939609162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 20:10:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3ebc5ec9500c49709273585d90a53440</sys_id>
+        <sys_metadata>a05331a397477150601fb998c253af5a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982322_technic_1_sosqtdsr_c</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent display_value="sosqtdsr_c">97470a0097433110601fb998c253af60</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a05331a397477150601fb998c253af5a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a05331a397477150601fb998c253af5a">2c5331a397477150601fb998c253afc5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 20:10:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

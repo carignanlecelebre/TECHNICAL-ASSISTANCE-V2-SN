@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="DELETE">
+        <active>true</active>
+        <category display_value="sosqtdsr_b">5a437d6397477150601fb998c253af2b</category>
+        <columns>n_dos_id,c_dos_la,c_dos_st_id,n_client_id,n_contact_id,c_type_appel_id,c_pour_action_id,c_vehicule_id,c_priorite_id,c_dos_d_dos_rappel,d_dos_statut,c_grp_creation,c_rep_creation,d_creation,c_plateforme_creation,c_plateforme_maj,c_grp_maj,d_dos_1ere_action,c_dos_constatation_la,c_dos_incident_reproduit,c_dos_symptome_ppd_la,c_dos_diagnostique_la,c_dos_remede_la,c_dos_solution_la,c_dos_vin,c_dos_dam,c_dos_odometre,d_dos_deb_garantie,d_dos_fin_garantie,c_dos_odo_id,c_rep_proprietaire,c_grp_proprietaire,c_plateforme_proprietaire,d_proprietaire,change_dt,change_uid,n_branch_pointer,c_dos_odometre_fin_gar,c_pour_info_id,n_item_id,d_dos_reouverture,d_dos_fermeture,c_dos_rep_fermeture,c_dos_grp_fermeture,c_dos_plateforme_fermeture,d_dos_pf_arrivee,c_dos_emaildiag_emetteur,c_dos_ferm_cause_id,c_dos_ouv_cause_id,c_marque_id,c_veh_transforme,domage_corporel,domage_tiers,delais_dapparition,unite_delais,vehicule_remorque,recidive,ntsbou_code_campagne,date_de_la_preced_interve,incident_reproduit,vehicule_immobilise,intervention,i_info_complementaire,v_type_client,domage_description,v_date_reparation,i_plainte_client,v_accident</columns>
+        <condition/>
+        <configuration display_value="Technical Assistance V2 ServiceNow_menu_config">da433d6397477150601fb998c253aff7</configuration>
+        <group_by_column/>
+        <groups/>
+        <hide_cell_filter>false</hide_cell_filter>
+        <hide_checkbox_hover>true</hide_checkbox_hover>
+        <hide_column_filtering>false</hide_column_filtering>
+        <hide_column_grouping>false</hide_column_grouping>
+        <hide_column_resizing>false</hide_column_resizing>
+        <hide_column_sorting>false</hide_column_sorting>
+        <hide_drag_and_drop>true</hide_drag_and_drop>
+        <hide_empty_state_image>false</hide_empty_state_image>
+        <hide_first_page>false</hide_first_page>
+        <hide_header>false</hide_header>
+        <hide_highlight_content>false</hide_highlight_content>
+        <hide_highlighted_values>false</hide_highlighted_values>
+        <hide_inline_editing>false</hide_inline_editing>
+        <hide_last_page>false</hide_last_page>
+        <hide_last_refreshed_text>false</hide_last_refreshed_text>
+        <hide_links>false</hide_links>
+        <hide_list_actions>false</hide_list_actions>
+        <hide_menu_button>false</hide_menu_button>
+        <hide_next_page>false</hide_next_page>
+        <hide_option_to_save_as>false</hide_option_to_save_as>
+        <hide_pages>false</hide_pages>
+        <hide_pagination>false</hide_pagination>
+        <hide_panel_advanced>false</hide_panel_advanced>
+        <hide_panel_button>false</hide_panel_button>
+        <hide_panel_condition_delete>false</hide_panel_condition_delete>
+        <hide_panel_footer>false</hide_panel_footer>
+        <hide_panel_restore>false</hide_panel_restore>
+        <hide_personalization>false</hide_personalization>
+        <hide_previous_page>false</hide_previous_page>
+        <hide_quick_edit>false</hide_quick_edit>
+        <hide_range>false</hide_range>
+        <hide_record_count_badge>false</hide_record_count_badge>
+        <hide_reference_links>false</hide_reference_links>
+        <hide_refresh_button>false</hide_refresh_button>
+        <hide_row_count>false</hide_row_count>
+        <hide_row_selector>false</hide_row_selector>
+        <hide_rows_per_page_selector>false</hide_rows_per_page_selector>
+        <hide_select_all>false</hide_select_all>
+        <hide_sharing_button>false</hide_sharing_button>
+        <hide_title>false</hide_title>
+        <highlight_content_color/>
+        <highlight_content_pattern/>
+        <list_attributes/>
+        <max_characters>4000</max_characters>
+        <order>50</order>
+        <override_word_wrap_user_pref>false</override_word_wrap_user_pref>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 16:47:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a437d6397477150601fb998c253af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_ux_list_1a437d6397477150601fb998c253af2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 16:47:19</sys_updated_on>
+        <table>x_982322_technic_1_sosqtdsr_b</table>
+        <title>All</title>
+        <view/>
+        <word_wrap>false</word_wrap>
+    </sys_ux_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_ux_list_1a437d6397477150601fb998c253af2d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="sosqtdsr_b">5a437d6397477150601fb998c253af2b</category><columns>n_dos_id,c_dos_la,c_dos_st_id,n_client_id,n_contact_id,c_type_appel_id,c_pour_action_id,c_vehicule_id,c_priorite_id,c_dos_d_dos_rappel,d_dos_statut,c_grp_creation,c_rep_creation,d_creation,c_plateforme_creation,c_plateforme_maj,c_grp_maj,d_dos_1ere_action,c_dos_constatation_la,c_dos_incident_reproduit,c_dos_symptome_ppd_la,c_dos_diagnostique_la,c_dos_remede_la,c_dos_solution_la,c_dos_vin,c_dos_dam,c_dos_odometre,d_dos_deb_garantie,d_dos_fin_garantie,c_dos_odo_id,c_rep_proprietaire,c_grp_proprietaire,c_plateforme_proprietaire,d_proprietaire,change_dt,change_uid,n_branch_pointer,c_dos_odometre_fin_gar,c_pour_info_id,n_item_id,d_dos_reouverture,d_dos_fermeture,c_dos_rep_fermeture,c_dos_grp_fermeture,c_dos_plateforme_fermeture,d_dos_pf_arrivee,c_dos_emaildiag_emetteur,c_dos_ferm_cause_id,c_dos_ouv_cause_id,c_marque_id,c_veh_transforme,domage_corporel,domage_tiers,delais_dapparition,unite_delais,vehicule_remorque,recidive,ntsbou_code_campagne,date_de_la_preced_interve,incident_reproduit,vehicule_immobilise,intervention,i_info_complementaire,v_type_client,domage_description,v_date_reparation,i_plainte_client,v_accident</columns><condition/><configuration display_value="Technical Assistance V2 ServiceNow_menu_config">da433d6397477150601fb998c253aff7</configuration><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>false</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><max_characters>4000</max_characters><order>50</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 16:47:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1a437d6397477150601fb998c253af2d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>sys_ux_list_1a437d6397477150601fb998c253af2d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-17 16:47:19</sys_updated_on><table>x_982322_technic_1_sosqtdsr_b</table><title>All</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+        <payload_hash>-2002697940</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 16:47:19</sys_created_on>
+        <sys_id>96437d6397477150601fb998c253af2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c78accb1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 16:47:19</sys_updated_on>
+        <type>UX List</type>
+        <update_guid>9a437d63124771503d06fc650af2c82e</update_guid>
+        <update_guid_history>9a437d63124771503d06fc650af2c82e:-2002697940</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 20:08:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list">sys_ux_list</sys_db_object>
+        <sys_id>1230b2be016340e4a68da3fddda5d690</sys_id>
+        <sys_metadata>1a437d6397477150601fb998c253af2d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>sys_ux_list_1a437d6397477150601fb998c253af2d</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_1a437d6397477150601fb998c253af2d">96437d6397477150601fb998c253af2f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 20:08:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

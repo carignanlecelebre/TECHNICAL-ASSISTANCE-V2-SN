@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="technical-assistance-v2-servicenow Search Profile">0143f963ef47715013521c5d2c6bd76d</profile>
+        <search_source display_value="sosqtpoa">4343fd6397477150601fb998c253af09</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 16:47:22</sys_created_on>
+        <sys_id>c343fd6397477150601fb998c253af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>technical-assistance-v2-servicenow Search Profile.sosqtpoa</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_c343fd6397477150601fb998c253af0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 16:47:22</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

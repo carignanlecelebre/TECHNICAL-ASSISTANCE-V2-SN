@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">9e8a7b7cd1fbb550da58792dc654fd72</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">5e8a7b7c80fbb5506a0c93adc8889d69</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-15 20:22:05</sys_created_on>
+        <sys_id>128a7b7c88fbb5505d0c1980c81a296a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_128a7b7c88fbb5505d0c1980c81a296a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-15 20:22:05</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

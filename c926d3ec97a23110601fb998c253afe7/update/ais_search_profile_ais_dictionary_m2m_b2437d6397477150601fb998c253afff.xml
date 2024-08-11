@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_982322_technic_1_technical_assistance_v2_servicenow_search_profile_default_spell_check_dictionary">f2437d6397477150601fb998c253afe3</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="technical-assistance-v2-servicenow Search Profile">0143f963ef47715013521c5d2c6bd76d</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 16:47:21</sys_created_on>
+        <sys_id>b2437d6397477150601fb998c253afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982322_technic_1_technical_assistance_v2_servicenow_search_profile_default_spell_check_dictionary.technical-assistance-v2-servicenow Search Profile</sys_name>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_b2437d6397477150601fb998c253afff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 16:47:21</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

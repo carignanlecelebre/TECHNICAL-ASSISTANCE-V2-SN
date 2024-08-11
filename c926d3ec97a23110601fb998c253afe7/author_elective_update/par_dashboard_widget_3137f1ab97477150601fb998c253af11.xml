@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">4d43f963ee477150e5cbdd3baffbf665</canvas>
+        <component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component>
+        <component_props>{"src":"","sources":[{"srcset":"fiat.jpg","sizes":"width=180 height=180"}],"fit":"scale-down","position":"center center","alt":"","noDebounce":""}</component_props>
+        <h>11</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 17:04:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3137f1ab97477150601fb998c253af11</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_update_name>par_dashboard_widget_3137f1ab97477150601fb998c253af11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 17:31:44</sys_updated_on>
+        <visualization/>
+        <w>10</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>par_dashboard_widget_3137f1ab97477150601fb998c253af11</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">4d43f963ee477150e5cbdd3baffbf665</canvas><component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component><component_props>{"src":"","sources":[{"srcset":"fiat.jpg","sizes":"width=180 height=180"}],"fit":"scale-down","position":"center center","alt":"","noDebounce":""}</component_props><h>11</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 17:04:29</sys_created_on><sys_domain>global</sys_domain><sys_id>3137f1ab97477150601fb998c253af11</sys_id><sys_mod_count>6</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package><sys_policy/><sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope><sys_update_name>par_dashboard_widget_3137f1ab97477150601fb998c253af11</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-17 17:31:44</sys_updated_on><visualization/><w>10</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-617781674</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0126d3ec97a23110601fb998c253afec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 17:31:44</sys_created_on>
+        <sys_id>7c7db16797877150601fb998c253afc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c78d5753d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 17:31:44</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>f07db1674e8771501c18c68f73a0bfc5</update_guid>
+        <update_guid_history>f07db1674e8771501c18c68f73a0bfc5:-617781674,9c5db167708771502050b1170cd255d3:-165777034,c6fb3da3e3877150884b898e5bdb9bac:-202734089,fbbb7def8c47715007f0e554c5e82add:-165777034,06d8b5ab584771504e29bcb1cab89975:-423040340,60a8fd6b4d4771508ec36434fa43ad96:-1643925873,b937f1ab62477150c12868e3a6b0e612:1255936699</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">cff146ef97877150601fb998c253af06</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 17:51:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0847167020a64d0882a585bf0d196b90</sys_id>
+        <sys_metadata>3137f1ab97477150601fb998c253af11</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance V2 ServiceNow" source="x_982322_technic_1">c926d3ec97a23110601fb998c253afe7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance V2 ServiceNow">c926d3ec97a23110601fb998c253afe7</sys_scope>
+        <sys_scope_delete display_value="">491b553b289948aabb9a1e0685ec95d9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_3137f1ab97477150601fb998c253af11</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_3137f1ab97477150601fb998c253af11">7c7db16797877150601fb998c253afc5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 17:51:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
